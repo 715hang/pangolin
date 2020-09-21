@@ -1,0 +1,2 @@
+class RemoteComputer(object):
+    pass
